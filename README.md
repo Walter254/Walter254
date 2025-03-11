@@ -35,11 +35,11 @@ Computer Engineering graduate from Tufts University with a passion for building 
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4864](https://github.com/hoppscotch/hoppscotch/pull/4864) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 🎉 Merged PR [#4860](https://github.com/hoppscotch/hoppscotch/pull/4860) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 🎉 Merged PR [#4868](https://github.com/hoppscotch/hoppscotch/pull/4868) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. 🎉 Merged PR [#4865](https://github.com/hoppscotch/hoppscotch/pull/4865) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. 🎉 Merged PR [#4855](https://github.com/hoppscotch/hoppscotch/pull/4855) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. ❗ Opened issue [#1](https://github.com/Walter254/Crossings/issues/1) in [Walter254/Crossings](https://github.com/Walter254/Crossings)
+2. ❗ Opened issue [#1](https://github.com/Walter254/GasPumpersGame/issues/1) in [Walter254/GasPumpersGame](https://github.com/Walter254/GasPumpersGame)
+3. ❗ Opened issue [#6](https://github.com/Walter254/SubletTuftsApp/issues/6) in [Walter254/SubletTuftsApp](https://github.com/Walter254/SubletTuftsApp)
+4. 🔒 Closed issue [#1](https://github.com/Walter254/ElectronicOrchestraAnalyzerApp/issues/1) in [Walter254/ElectronicOrchestraAnalyzerApp](https://github.com/Walter254/ElectronicOrchestraAnalyzerApp)
+5. 🎉 Merged PR [#2](https://github.com/Walter254/ElectronicOrchestraAnalyzerApp/pull/2) in [Walter254/ElectronicOrchestraAnalyzerApp](https://github.com/Walter254/ElectronicOrchestraAnalyzerApp)
 
 <!--END_SECTION:activity-->
 
