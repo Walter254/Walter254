@@ -31,12 +31,16 @@ Computer Engineering graduate from Tufts University with a passion for building 
     <div class="carousel" style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; white-space: nowrap; max-width: 100%; overflow-y: hidden;">
         <div style="flex: none; width: 80%; margin: 0 10px; scroll-snap-align: start; display: inline-block;">
             <h3>SubletTufts App</h3>
-            <iframe width="100%" height="315" src="https://www.loom.com/share/b1086af644434a60876d3935fab8ac26?sid=9eb661f3-410f-4e78-83cb-7101687cc33f" frameborder="0" allowfullscreen></iframe>
+            <a href="https://www.loom.com/share/b1086af644434a60876d3935fab8ac26" target="_blank">
+                <img src="https://cdn.loom.com/sessions/thumbnails/b1086af644434a60876d3935fab8ac26-with-play.gif" alt="SubletTufts App Demo" style="width: 100%; border-radius: 8px;"/>
+            </a>
             <p><a href="https://github.com/Walter254/SubletTuftsApp?tab=readme-ov-file" target="_blank">View Repository</a></p>
         </div>
         <div style="flex: none; width: 80%; margin: 0 10px; scroll-snap-align: start; display: inline-block;">
             <h3>Electronic Orchestra Analyzer App</h3>
-            <iframe width="100%" height="315" src="https://www.loom.com/share/10867652fb454b52ad407bb06413d982?sid=728147e4-92a5-4dda-9a26-a57a91e697ba" frameborder="0" allowfullscreen></iframe>
+            <a href="https://www.loom.com/share/10867652fb454b52ad407bb06413d982" target="_blank">
+                <img src="https://cdn.loom.com/sessions/thumbnails/10867652fb454b52ad407bb06413d982-with-play.gif" alt="Electronic Orchestra Analyzer App Demo" style="width: 100%; border-radius: 8px;"/>
+            </a>
             <p><a href="https://github.com/Walter254/ElectronicOrchestraAnalyzerApp?tab=readme-ov-file" target="_blank">View Repository</a></p>
         </div>
         <!-- Add more projects as needed -->
