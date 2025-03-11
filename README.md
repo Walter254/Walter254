@@ -45,8 +45,8 @@ Computer Engineering graduate from Tufts University with a passion for building 
   <a href="https://walter254.github.io/myCv/">
     <img src="https://img.shields.io/badge/website-walter.sh-1BC?logo=react&logoColor=white&style=flat-square" />
   </a>
-  <a href="https://github.com/wei">
-    <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-wei&label=visitors&color=grey&style=flat" />
+  <a href="https://github.com/Walter254">
+    <img src="https://komarev.com/ghpvc/?username=Walter254" />
   </a>
 </p>
 
