@@ -25,18 +25,21 @@ Computer Engineering graduate from Tufts University with a passion for building 
 | <a href="https://github.com/Walter254"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Walter254&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Walter's github stats" /></a> | <a href="https://github.com/Walter254"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walter254&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-## Video Walkthrough
-
-<div style="display: flex; gap: 16px; justify-content: center; margin-top: 20px;">
-    <div>
-        <a href="https://www.loom.com/share/b1086af644434a60876d3935fab8ac26" target="_blank">
-            <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b1086af644434a60876d3935fab8ac26-with-play.gif" alt="SubletTufts App Walkthrough" onerror="this.onerror=null; this.src='https://via.placeholder.com/300x200?text=Video+Unavailable';">
-        </a>
+<!-- Carousel Section for Loom Videos -->
+<div style="text-align: center; margin-top: 40px;">
+    <h2>Projects Showcase</h2>
+    <div class="carousel" style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory;">
+        <div style="flex: none; width: 80%; margin: 0 10px; scroll-snap-align: start;">
+            <h3>Electronic Orchestra Analyzer App</h3>
+            <iframe width="100%" height="315" src="https://www.loom.com/share/10867652fb454b52ad407bb06413d982?sid=728147e4-92a5-4dda-9a26-a57a91e697ba" frameborder="0" allowfullscreen></iframe>
+            <p><a href="https://github.com/Walter254/ElectronicOrchestraAnalyzerApp?tab=readme-ov-file" target="_blank">View Repository</a></p>
+        </div>
+        <div style="flex: none; width: 80%; margin: 0 10px; scroll-snap-align: start;">
+            <h3>SubletTufts App</h3>
+            <iframe width="100%" height="315" src="https://www.loom.com/share/b1086af644434a60876d3935fab8ac26?sid=9eb661f3-410f-4e78-83cb-7101687cc33f" frameborder="0" allowfullscreen></iframe>
+            <p><a href="https://github.com/Walter254/SubletTuftsApp?tab=readme-ov-file" target="_blank">View Repository</a></p>
+        </div>
+        <!-- Add more projects as needed -->
     </div>
-    <div>
-        <a href="https://www.loom.com/share/10867652fb454b52ad407bb06413d982" target="_blank">
-            <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/10867652fb454b52ad407bb06413d982-with-play.gif" alt="Electronic Orchestra Analyzer App Walkthrough" onerror="this.onerror=null; this.src='https://via.placeholder.com/300x200?text=Video+Unavailable';">
-        </a>
-    </div>
-    <!-- Add more videos as needed -->
 </div>
+<!-- End of Carousel Section -->
