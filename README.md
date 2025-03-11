@@ -29,12 +29,12 @@ Computer Engineering graduate from Tufts University with a passion for building 
 
 **Example Projects**
 
-<a href="https://github.com/Walter254/SubletTuftsApp">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Walter254&repo=SubletTuftsApp" />
-</a>
-<a href="https://github.com/Walter254/ElectronicOrchestraAnalyzerApp">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Walter254&repo=ElectronicOrchestraAnalyzerApp" />
-</a>
+| <a href="https://github.com/Walter254/SubletTuftsApp">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Walter254&repo=SubletTuftsApp" />
+  </a> | <a href="https://github.com/Walter254/ElectronicOrchestraAnalyzerApp">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Walter254&repo=ElectronicOrchestraAnalyzerApp" />
+  </a> |
+| ------------- | ------------- |
 
 
 
