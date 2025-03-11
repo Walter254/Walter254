@@ -32,29 +32,18 @@ Computer Engineering graduate from Tufts University with a passion for building 
 -----
 <p align="center">
   <a href="https://github.com/Walter254">
-    <img src="https://img.shields.io/badge/github-@walter-211F1F?logo=github&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/github-@Walter254-211F1F?logo=github&logoColor=white&style=flat-square" />
   </a>
-  <a href="https://www.linkedin.com/in/towei">
-    <img src="https://img.shields.io/badge/linkedin-Wei_He-0072B1?logo=linkedin&style=flat-square" />
+  <a href="https://www.linkedin.com/in/wagudewalter/">
+    <img src="https://img.shields.io/badge/linkedin-wagudewalter-0072B1?logo=linkedin&style=flat-square" />
   </a>
-  <a href="https://keybase.io/towei">
-    <img src="https://img.shields.io/badge/keybase-towei_849A5C7C-4066E2?logo=keybase&logoColor=white&style=flat-square" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://x.com/weicodes">
-    <img src="https://img.shields.io/badge/@weicodes-000000?logo=x&logoColor=white&style=flat-square" />
-  </a>
-  <a id="cal-booking-link" data-cal-link="wei/meet" href="https://wei.sh/?booking">
+  <a id="cal-booking-link" data-cal-link="walter/meet" href="https://calendly.com/wagudewalter2/30min">
     <img src="https://img.shields.io/badge/Meet_with_me-1a73e8?logo=googlecalendar&logoColor=white&style=flat-square" />
   </a>
-  <a class="drift-open-chat" href="https://wei.sh/?chat">
-    <img src="https://img.shields.io/badge/Chat_now-46955c?logo=googlemessages&logoColor=white&style=flat-square" />
-  </a>
 </p>
 <p align="center">
-  <a href="https://wei.sh">
-    <img src="https://img.shields.io/badge/website-wei.sh-1BC?logo=react&logoColor=white&style=flat-square" />
+  <a href="https://walter254.github.io/myCv/">
+    <img src="https://img.shields.io/badge/website-walter.sh-1BC?logo=react&logoColor=white&style=flat-square" />
   </a>
   <a href="https://github.com/wei">
     <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-wei&label=visitors&color=grey&style=flat" />
