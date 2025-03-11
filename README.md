@@ -29,7 +29,7 @@ Computer Engineering graduate from Tufts University with a passion for building 
 
 **Example Projects**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github.com/Walter254/SubletTuftsApp)](https://github.com/Walter254/SubletTuftsApp)
 
 <div style="display: flex; overflow-x: auto;">
     [![SubletTufts](https://github.com/Walter254/SubletTuftsApp)]
