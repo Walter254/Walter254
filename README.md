@@ -1,5 +1,7 @@
 <p align="center"><strong>👋 Hello, I'm Walter. I am a Full-Stack Engineer!</strong></p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Walter254)
+
 <br />
 
 Computer Engineering graduate from Tufts University with a passion for building impactful software. I'm excited by the opportunity to tackle complex challenges, collaborating with smart and curious people, and continuously learning new technologies.
@@ -21,8 +23,6 @@ Computer Engineering graduate from Tufts University with a passion for building 
 <code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" alt="burpsuite" src="/images/burb_suite_img.png"></code>
 <code><img height="20" alt="swift" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Walter254)
 
 | <a href="https://github-readme-stats.vercel.app/api?username=Walter254&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=00000000&hide_border=true&hide=stars,contribs&show=reviews,prs_merged_percentage" target="_self"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Walter254&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=00000000&hide_border=true&hide=stars,contribs&show=reviews,prs_merged_percentage" alt="Walter's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Walter254&layout=donut&theme=tokyonight&bg_color=00000000&hide_border=true" target="_self"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walter254&layout=donut&theme=tokyonight&bg_color=00000000&hide_border=true" /></a> | [![Walter's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Walter254&layout=compact)](https://github-readme-stats.vercel.app/api/wakatime?username=Walter254&layout=compact) |
 | ------------- | ------------- | ------------- |
