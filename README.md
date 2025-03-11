@@ -25,25 +25,18 @@ Computer Engineering graduate from Tufts University with a passion for building 
 | <a href="https://github.com/Walter254"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Walter254&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Walter's github stats" /></a> | <a href="https://github.com/Walter254"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walter254&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<!-- Carousel Section for Loom Videos -->
-<div style="text-align: center; margin-top: 40px;">
-    <h2>Projects Showcase</h2>
-    <div class="carousel" style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; white-space: nowrap; max-width: 100%; overflow-y: hidden;">
-        <div style="flex: none; width: 80%; margin: 0 10px; scroll-snap-align: start; display: inline-block;">
-            <h3>SubletTufts App</h3>
-            <a href="https://www.loom.com/share/b1086af644434a60876d3935fab8ac26" target="_blank">
-                <img src="https://cdn.loom.com/sessions/thumbnails/b1086af644434a60876d3935fab8ac26-with-play.gif" alt="SubletTufts App Demo" style="width: 100%; border-radius: 8px;"/>
-            </a>
-            <p><a href="https://github.com/Walter254/SubletTuftsApp?tab=readme-ov-file" target="_blank">View Repository</a></p>
-        </div>
-        <div style="flex: none; width: 80%; margin: 0 10px; scroll-snap-align: start; display: inline-block;">
-            <h3>Electronic Orchestra Analyzer App</h3>
-            <a href="https://www.loom.com/share/10867652fb454b52ad407bb06413d982" target="_blank">
-                <img src="https://cdn.loom.com/sessions/thumbnails/10867652fb454b52ad407bb06413d982-with-play.gif" alt="Electronic Orchestra Analyzer App Demo" style="width: 100%; border-radius: 8px;"/>
-            </a>
-            <p><a href="https://github.com/Walter254/ElectronicOrchestraAnalyzerApp?tab=readme-ov-file" target="_blank">View Repository</a></p>
-        </div>
-        <!-- Add more projects as needed -->
+## Video Walkthrough
+
+<div style="display: flex; gap: 16px; justify-content: center; margin-top: 20px;">
+    <div>
+        <a href="https://www.loom.com/share/b1086af644434a60876d3935fab8ac26" target="_blank">
+            <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b1086af644434a60876d3935fab8ac26-with-play.gif" alt="SubletTufts App Walkthrough">
+        </a>
     </div>
+    <div>
+        <a href="https://www.loom.com/share/10867652fb454b52ad407bb06413d982" target="_blank">
+            <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/10867652fb454b52ad407bb06413d982-with-play.gif" alt="Electronic Orchestra Analyzer App Walkthrough">
+        </a>
+    </div>
+    <!-- Add more videos as needed -->
 </div>
-<!-- End of Carousel Section -->
