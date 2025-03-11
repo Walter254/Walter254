@@ -35,11 +35,11 @@ Computer Engineering graduate from Tufts University with a passion for building 
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/Walter254/Walter254/issues/2) in [Walter254/Walter254](https://github.com/Walter254/Walter254)
-2. ❗ Opened issue [#1](https://github.com/Walter254/Walter254/issues/1) in [Walter254/Walter254](https://github.com/Walter254/Walter254)
-3. ❗ Opened issue [#1](https://github.com/Walter254/Crossings/issues/1) in [Walter254/Crossings](https://github.com/Walter254/Crossings)
-4. ❗ Opened issue [#1](https://github.com/Walter254/GasPumpersGame/issues/1) in [Walter254/GasPumpersGame](https://github.com/Walter254/GasPumpersGame)
-5. ❗ Opened issue [#6](https://github.com/Walter254/SubletTuftsApp/issues/6) in [Walter254/SubletTuftsApp](https://github.com/Walter254/SubletTuftsApp)
+1. ❗ Opened issue [#10](https://github.com/Walter254/myCv/issues/10) in [Walter254/myCv](https://github.com/Walter254/myCv)
+2. ❗ Opened issue [#2](https://github.com/Walter254/Walter254/issues/2) in [Walter254/Walter254](https://github.com/Walter254/Walter254)
+3. ❗ Opened issue [#1](https://github.com/Walter254/Walter254/issues/1) in [Walter254/Walter254](https://github.com/Walter254/Walter254)
+4. ❗ Opened issue [#1](https://github.com/Walter254/Crossings/issues/1) in [Walter254/Crossings](https://github.com/Walter254/Crossings)
+5. ❗ Opened issue [#1](https://github.com/Walter254/GasPumpersGame/issues/1) in [Walter254/GasPumpersGame](https://github.com/Walter254/GasPumpersGame)
 
 <!--END_SECTION:activity-->
 
