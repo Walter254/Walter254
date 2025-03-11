@@ -29,7 +29,37 @@ Computer Engineering graduate from Tufts University with a passion for building 
 | <a href="https://github-readme-stats.vercel.app/api?username=Walter254&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=00000000&hide_border=true&hide=stars,contribs&show=reviews,prs_merged_percentage" target="_self"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Walter254&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=00000000&hide_border=true&hide=stars,contribs&show=reviews,prs_merged_percentage" alt="Walter's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Walter254&layout=donut&theme=tokyonight&bg_color=00000000&hide_border=true" target="_self"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walter254&layout=donut&theme=tokyonight&bg_color=00000000&hide_border=true" /></a> | [![Walter's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Walter254&layout=compact)](https://github-readme-stats.vercel.app/api/wakatime?username=Walter254&layout=compact) |
 | ------------- | ------------- | ------------- |
 
-
+-----
+<p align="center">
+  <a href="https://github.com/wei">
+    <img src="https://img.shields.io/badge/github-@wei-211F1F?logo=github&logoColor=white&style=flat-square" />
+  </a>
+  <a href="https://www.linkedin.com/in/towei">
+    <img src="https://img.shields.io/badge/linkedin-Wei_He-0072B1?logo=linkedin&style=flat-square" />
+  </a>
+  <a href="https://keybase.io/towei">
+    <img src="https://img.shields.io/badge/keybase-towei_849A5C7C-4066E2?logo=keybase&logoColor=white&style=flat-square" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://x.com/weicodes">
+    <img src="https://img.shields.io/badge/@weicodes-000000?logo=x&logoColor=white&style=flat-square" />
+  </a>
+  <a id="cal-booking-link" data-cal-link="wei/meet" href="https://wei.sh/?booking">
+    <img src="https://img.shields.io/badge/Meet_with_me-1a73e8?logo=googlecalendar&logoColor=white&style=flat-square" />
+  </a>
+  <a class="drift-open-chat" href="https://wei.sh/?chat">
+    <img src="https://img.shields.io/badge/Chat_now-46955c?logo=googlemessages&logoColor=white&style=flat-square" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://wei.sh">
+    <img src="https://img.shields.io/badge/website-wei.sh-1BC?logo=react&logoColor=white&style=flat-square" />
+  </a>
+  <a href="https://github.com/wei">
+    <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-wei&label=visitors&color=grey&style=flat" />
+  </a>
+</p>
 
 
 
