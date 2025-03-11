@@ -29,6 +29,21 @@ Computer Engineering graduate from Tufts University with a passion for building 
 | <a href="https://github-readme-stats.vercel.app/api?username=Walter254&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=00000000&hide_border=true&hide=stars,contribs&show=reviews,prs_merged_percentage" target="_self"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Walter254&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=00000000&hide_border=true&hide=stars,contribs&show=reviews,prs_merged_percentage" alt="Walter's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Walter254&layout=donut&theme=tokyonight&bg_color=00000000&hide_border=true" target="_self"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walter254&layout=donut&theme=tokyonight&bg_color=00000000&hide_border=true" /></a> | [![Walter's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Walter254&layout=compact)](https://github-readme-stats.vercel.app/api/wakatime?username=Walter254&layout=compact) |
 | ------------- | ------------- | ------------- |
 
+<br />
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Walter254/langgraph-server-quickstart/pull/1) in [codeSTACKr/langgraph-server-quickstart](https://github.com/codeSTACKr/langgraph-server-quickstart)
+2. 🗣 Commented on [#64130](https://github.com/vercel/next.js/pull/64130#issuecomment-2266031546) in [vercel/next.js](https://github.com/vercel/next.js)
+3. 💪 Opened PR [#68461](https://github.com/vercel/next.js/pull/68461) in [vercel/next.js](https://github.com/vercel/next.js)
+4. 🗣 Commented on [#64130](https://github.com/vercel/next.js/pull/64130#issuecomment-2266021755) in [vercel/next.js](https://github.com/vercel/next.js)
+5. 🗣 Commented on [#64130](https://github.com/vercel/next.js/pull/64130#issuecomment-2265702580) in [vercel/next.js](https://github.com/vercel/next.js)
+<!--END_SECTION:activity-->
+
+</details>
+
 -----
 <p align="center">
   <a href="https://github.com/Walter254">
