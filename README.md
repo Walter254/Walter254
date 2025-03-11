@@ -1,4 +1,4 @@
-<p align="center"><a href="https://walter254.github.io/myCv/">Hello, I'm Walter. I am a FullStack Engineer!</a></p>
+<p align="center"><strong>Hello, I'm Walter. I am a FullStack Engineer!</strong></p>
 
 <br />
 
