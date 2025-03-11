@@ -31,8 +31,8 @@ Computer Engineering graduate from Tufts University with a passion for building 
 
 -----
 <p align="center">
-  <a href="https://github.com/wei">
-    <img src="https://img.shields.io/badge/github-@wei-211F1F?logo=github&logoColor=white&style=flat-square" />
+  <a href="https://github.com/Walter254">
+    <img src="https://img.shields.io/badge/github-@walter-211F1F?logo=github&logoColor=white&style=flat-square" />
   </a>
   <a href="https://www.linkedin.com/in/towei">
     <img src="https://img.shields.io/badge/linkedin-Wei_He-0072B1?logo=linkedin&style=flat-square" />
