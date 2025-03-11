@@ -1,7 +1,5 @@
 <p align="center"><strong>👋 Hello, I'm Walter. I am a Full-Stack Engineer!</strong></p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Walter254)
-
 <br />
 
 Computer Engineering graduate from Tufts University with a passion for building impactful software. I'm excited by the opportunity to tackle complex challenges, collaborating with smart and curious people, and continuously learning new technologies.
