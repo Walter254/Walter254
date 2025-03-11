@@ -54,6 +54,7 @@ Here's a showcase of my projects with demo videos and repository links.
     border-radius: 8px;
     padding: 16px;
     background-color: #f9f9f9;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   }
 
   .carousel-item iframe {
@@ -83,7 +84,7 @@ Here's a showcase of my projects with demo videos and repository links.
       <iframe width="100%" height="250" src="https://www.loom.com/embed/10867652fb454b52ad407bb06413d982" frameborder="0" allowfullscreen></iframe>
       <p><a href="https://github.com/Walter254/ElectronicOrchestraAnalyzerApp?tab=readme-ov-file" target="_blank">View Repository</a></p>
     </div>
-
+    <!-- Add more projects as needed -->
   </div>
 </div>
 
