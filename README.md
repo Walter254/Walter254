@@ -33,13 +33,17 @@ Here's a showcase of my projects with demo videos and repository links.
 
 <div style="min-width: 300px; flex: none; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
   <h3>SubletTufts App</h3>
-  <iframe width="100%" height="250" src="https://www.loom.com/embed/b1086af644434a60876d3935fab8ac26" frameborder="0" allowfullscreen></iframe>
+  <a href="https://www.loom.com/share/b1086af644434a60876d3935fab8ac26" target="_blank">
+    <img src="https://cdn.loom.com/sessions/thumbnails/b1086af644434a60876d3935fab8ac26-with-play.gif" alt="SubletTufts App Demo" width="100%"/>
+  </a>
   <p><a href="https://github.com/Walter254/SubletTuftsApp?tab=readme-ov-file" target="_blank">View Repository</a></p>
 </div>
 
 <div style="min-width: 300px; flex: none; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
   <h3>Electronic Orchestra Analyzer App</h3>
-  <iframe width="100%" height="250" src="https://www.loom.com/embed/10867652fb454b52ad407bb06413d982" frameborder="0" allowfullscreen></iframe>
+  <a href="https://www.loom.com/share/10867652fb454b52ad407bb06413d982" target="_blank">
+    <img src="https://cdn.loom.com/sessions/thumbnails/10867652fb454b52ad407bb06413d982-with-play.gif" alt="Electronic Orchestra Analyzer App Demo" width="100%"/>
+  </a>
   <p><a href="https://github.com/Walter254/ElectronicOrchestraAnalyzerApp?tab=readme-ov-file" target="_blank">View Repository</a></p>
 </div>
 
