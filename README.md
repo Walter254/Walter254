@@ -29,64 +29,21 @@ Computer Engineering graduate from Tufts University with a passion for building 
 
 Here's a showcase of my projects with demo videos and repository links.
 
-<style>
-  .carousel-container {
-    text-align: center;
-    margin-top: 40px;
-  }
+<div style="display: flex; overflow-x: auto; gap: 16px; padding: 10px;">
 
-  .carousel {
-    display: flex;
-    overflow-x: auto;
-    scroll-snap-type: x mandatory;
-    white-space: nowrap;
-    max-width: 100%;
-    overflow-y: hidden;
-    gap: 16px;
-    padding-bottom: 16px;
-  }
-
-  .carousel-item {
-    flex: none;
-    width: 80%;
-    scroll-snap-align: start;
-    border: 1px solid #e0e0e0;
-    border-radius: 8px;
-    padding: 16px;
-    background-color: #f9f9f9;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  }
-
-  .carousel-item iframe {
-    border-radius: 8px;
-  }
-
-  .carousel-item a {
-    text-decoration: none;
-    color: #007bff;
-  }
-
-  .carousel-item a:hover {
-    text-decoration: underline;
-  }
-</style>
-
-<div class="carousel-container">
-  <h2>Projects Showcase</h2>
-  <div class="carousel">
-    <div class="carousel-item">
-      <h3>SubletTufts App</h3>
-      <iframe width="100%" height="250" src="https://www.loom.com/embed/b1086af644434a60876d3935fab8ac26" frameborder="0" allowfullscreen></iframe>
-      <p><a href="https://github.com/Walter254/SubletTuftsApp?tab=readme-ov-file" target="_blank">View Repository</a></p>
-    </div>
-    <div class="carousel-item">
-      <h3>Electronic Orchestra Analyzer App</h3>
-      <iframe width="100%" height="250" src="https://www.loom.com/embed/10867652fb454b52ad407bb06413d982" frameborder="0" allowfullscreen></iframe>
-      <p><a href="https://github.com/Walter254/ElectronicOrchestraAnalyzerApp?tab=readme-ov-file" target="_blank">View Repository</a></p>
-    </div>
-    <!-- Add more projects as needed -->
-  </div>
+<div style="min-width: 300px; flex: none; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
+  <h3>SubletTufts App</h3>
+  <iframe width="100%" height="250" src="https://www.loom.com/embed/b1086af644434a60876d3935fab8ac26" frameborder="0" allowfullscreen></iframe>
+  <p><a href="https://github.com/Walter254/SubletTuftsApp?tab=readme-ov-file" target="_blank">View Repository</a></p>
 </div>
 
-> Use your mouse or touchpad to scroll through the projects.
+<div style="min-width: 300px; flex: none; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
+  <h3>Electronic Orchestra Analyzer App</h3>
+  <iframe width="100%" height="250" src="https://www.loom.com/embed/10867652fb454b52ad407bb06413d982" frameborder="0" allowfullscreen></iframe>
+  <p><a href="https://github.com/Walter254/ElectronicOrchestraAnalyzerApp?tab=readme-ov-file" target="_blank">View Repository</a></p>
+</div>
+
+</div>
+
+> **Note:** Scroll sideways to see more projects.
 
