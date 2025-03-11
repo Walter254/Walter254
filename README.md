@@ -27,14 +27,7 @@ Computer Engineering graduate from Tufts University with a passion for building 
 | <a href="https://github-readme-stats.vercel.app/api?username=Walter254&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=00000000&hide_border=true&hide=stars,contribs&show=reviews,prs_merged_percentage" target="_self"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Walter254&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=00000000&hide_border=true&hide=stars,contribs&show=reviews,prs_merged_percentage" alt="Walter's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Walter254&layout=donut&theme=tokyonight&bg_color=00000000&hide_border=true" target="_self"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walter254&layout=donut&theme=tokyonight&bg_color=00000000&hide_border=true" /></a> | [![Walter's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Walter254&layout=compact)](https://github-readme-stats.vercel.app/api/wakatime?username=Walter254&layout=compact) |
 | ------------- | ------------- | ------------- |
 
-**Example Projects**
 
-| <a href="https://github.com/Walter254/SubletTuftsApp">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Walter254&repo=SubletTuftsApp" />
-  </a> | <a href="https://github.com/Walter254/ElectronicOrchestraAnalyzerApp">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Walter254&repo=ElectronicOrchestraAnalyzerApp" />
-  </a> |
-| ------------- | ------------- |
 
 
 
