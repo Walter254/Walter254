@@ -28,7 +28,7 @@ Computer Engineering graduate from Tufts University with a passion for building 
 <!-- Carousel Section for Loom Videos -->
 <div style="text-align: center; margin-top: 40px;">
     <h2>Projects Showcase</h2>
-    <div class="carousel" style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; white-space: nowrap;">
+    <div class="carousel" style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; white-space: nowrap; max-width: 100%; overflow-y: hidden;">
         <div style="flex: none; width: 80%; margin: 0 10px; scroll-snap-align: start; display: inline-block;">
             <h3>SubletTufts App</h3>
             <iframe width="100%" height="315" src="https://www.loom.com/share/b1086af644434a60876d3935fab8ac26?sid=9eb661f3-410f-4e78-83cb-7101687cc33f" frameborder="0" allowfullscreen></iframe>
