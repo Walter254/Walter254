@@ -73,13 +73,11 @@ Here's a showcase of my projects with demo videos and repository links.
 <div class="carousel-container">
   <h2>Projects Showcase</h2>
   <div class="carousel">
-
     <div class="carousel-item">
       <h3>SubletTufts App</h3>
       <iframe width="100%" height="250" src="https://www.loom.com/embed/b1086af644434a60876d3935fab8ac26" frameborder="0" allowfullscreen></iframe>
       <p><a href="https://github.com/Walter254/SubletTuftsApp?tab=readme-ov-file" target="_blank">View Repository</a></p>
     </div>
-
     <div class="carousel-item">
       <h3>Electronic Orchestra Analyzer App</h3>
       <iframe width="100%" height="250" src="https://www.loom.com/embed/10867652fb454b52ad407bb06413d982" frameborder="0" allowfullscreen></iframe>
