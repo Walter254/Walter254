@@ -1,4 +1,4 @@
-<p align="center"><a href="https://walter254.github.io/myCv/"><img width="80%" alt="Hello, I'm Walter. I am a FullStack Engineer!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://walter254.github.io/myCv/"><img width="80%" alt="Hello, I'm Walter. I am a FullStack Engineer!" /></a></p>
 
 <br />
 
