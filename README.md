@@ -26,7 +26,7 @@ Computer Engineering graduate from Tufts University with a passion for building 
 | ------------- | ------------- |
 
 <!-- Carousel Section for Loom Videos -->
-<div style="text-align: center; margin-top: 40px;">
+<!-- <div style="text-align: center; margin-top: 40px;">
     <h2>Projects Showcase</h2>
     <div class="carousel" style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory;">
         <div style="flex: none; width: 80%; margin: 0 10px; scroll-snap-align: start;">
@@ -41,5 +41,23 @@ Computer Engineering graduate from Tufts University with a passion for building 
         </div>
         <!-- Add more projects as needed -->
     </div>
-</div>
+</div> -->
 <!-- End of Carousel Section -->
+
+## Video Walkthrough
+
+<div style="display: flex; gap: 16px; justify-content: center; margin-top: 20px;">
+    <div>
+        <a href="https://www.loom.com/share/b1086af644434a60876d3935fab8ac26" target="_blank">
+            <p>[WIP] Tufts Sublet - Demo Video - Watch Video</p>
+            <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b1086af644434a60876d3935fab8ac26-b368760357bf7f6c-full-play.gif" alt="SubletTufts App Walkthrough">
+        </a>
+    </div>
+    <div>
+        <a href="https://www.loom.com/share/10867652fb454b52ad407bb06413d982" target="_blank">
+            <p>Electronic Orchestra Analyzer App Walkthrough</p>
+            <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/10867652fb454b52ad407bb06413d982-with-play.gif" alt="Electronic Orchestra Analyzer App Walkthrough">
+        </a>
+    </div>
+    <!-- Add more videos as needed -->
+</div>
