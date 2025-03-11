@@ -30,12 +30,12 @@ Computer Engineering graduate from Tufts University with a passion for building 
 <div style="display: flex; gap: 16px; justify-content: center; margin-top: 20px;">
     <div>
         <a href="https://www.loom.com/share/b1086af644434a60876d3935fab8ac26" target="_blank">
-            <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b1086af644434a60876d3935fab8ac26-with-play.gif" alt="SubletTufts App Walkthrough">
+            <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b1086af644434a60876d3935fab8ac26-with-play.gif" alt="SubletTufts App Walkthrough" onerror="this.onerror=null; this.src='https://via.placeholder.com/300x200?text=Video+Unavailable';">
         </a>
     </div>
     <div>
         <a href="https://www.loom.com/share/10867652fb454b52ad407bb06413d982" target="_blank">
-            <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/10867652fb454b52ad407bb06413d982-with-play.gif" alt="Electronic Orchestra Analyzer App Walkthrough">
+            <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/10867652fb454b52ad407bb06413d982-with-play.gif" alt="Electronic Orchestra Analyzer App Walkthrough" onerror="this.onerror=null; this.src='https://via.placeholder.com/300x200?text=Video+Unavailable';">
         </a>
     </div>
     <!-- Add more videos as needed -->
