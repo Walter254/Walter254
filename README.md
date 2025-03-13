@@ -41,11 +41,11 @@ Computer Engineering graduate from Tufts University with a passion for building 
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#13](https://github.com/Walter254/myCv/issues/13) in [Walter254/myCv](https://github.com/Walter254/myCv)
-2. 🎉 Merged PR [#12](https://github.com/Walter254/myCv/pull/12) in [Walter254/myCv](https://github.com/Walter254/myCv)
-3. 💪 Opened PR [#12](https://github.com/Walter254/myCv/pull/12) in [Walter254/myCv](https://github.com/Walter254/myCv)
-4. 🔒 Closed issue [#10](https://github.com/Walter254/myCv/issues/10) in [Walter254/myCv](https://github.com/Walter254/myCv)
-5. 🎉 Merged PR [#11](https://github.com/Walter254/myCv/pull/11) in [Walter254/myCv](https://github.com/Walter254/myCv)
+1. ❗ Opened issue [#16](https://github.com/Walter254/myCv/issues/16) in [Walter254/myCv](https://github.com/Walter254/myCv)
+2. ❗ Opened issue [#15](https://github.com/Walter254/myCv/issues/15) in [Walter254/myCv](https://github.com/Walter254/myCv)
+3. 🔒 Closed issue [#13](https://github.com/Walter254/myCv/issues/13) in [Walter254/myCv](https://github.com/Walter254/myCv)
+4. 🎉 Merged PR [#14](https://github.com/Walter254/myCv/pull/14) in [Walter254/myCv](https://github.com/Walter254/myCv)
+5. 💪 Opened PR [#14](https://github.com/Walter254/myCv/pull/14) in [Walter254/myCv](https://github.com/Walter254/myCv)
 
 <!--END_SECTION:activity-->
 
