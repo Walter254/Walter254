@@ -10,9 +10,15 @@ Computer Engineering graduate from Tufts University with a passion for building 
 
 - ❤️ I love building impactful software!
 
-- 🏃‍♂️ I enjoy running! Check out my running activity [here](https://walter254.github.io/myCv/)
+- 🏃‍♂️ I enjoy running! Check out my running activity [here](https://walter254.github.io/myCv/featured.html)
 
-- 💬 Ask me about anything [here](https://walter254.github.io/myCv/) or schedule sometime to chat [here](https://calendly.com/wagudewalter2/30min)
+- 💬 Ask me about anything [here](https://walter254.github.io/myCv/contact.html) or schedule sometime to chat [here](https://calendly.com/wagudewalter2/30min)
+
+**Currently Learning**
+
+- 🌱 Exploring advanced React patterns
+- 📚 Working towards a BurbSuite Certified Penetration Tester certification
+- 🔍 Better understanding cloud services with AWS, Azure, and GCP
 
 <br />
 
