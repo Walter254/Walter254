@@ -6,7 +6,7 @@ Computer Engineering graduate from Tufts University with a passion for building 
 
 **About me**
 
-- 💼 Front-End Engineer at [ReBet](https://rebet.app/)
+- 💼 Mobile Front-End Tech Lead Engineer (USA) at [Trivelta]([https://rebet.app/](https://www.trivelta.com/))
 
 - ❤️ I love building impactful software!
 
