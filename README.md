@@ -1,4 +1,4 @@
-<p align="center"><strong>👋 Hello, I'm Walter. I am a Full-Stack Engineer!</strong></p>
+<p align="center"><strong>👋 Hello, I'm Walter. I am a Mobile App Engineer!</strong></p>
 
 <br />
 
