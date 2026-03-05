@@ -6,7 +6,7 @@ Computer Engineering graduate from Tufts University with a passion for building 
 
 **About me**
 
-- 💼 Mobile Front-End Tech Lead (USA) at [Trivelta](https://www.trivelta.com/)
+- 💼 Tech Lead - Features Team at [Trivelta](https://www.trivelta.com/)
 
 - ❤️ I love building impactful software!
 
