@@ -41,7 +41,7 @@ Computer Engineering graduate from Tufts University with a passion for building 
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#17](https://github.com/Walter254/myCv/issues/17) in [Walter254/myCv](https://github.com/Walter254/myCv)
+1. 🚀 Published release [Ether Mac 0.4.0](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.0) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
 2. ❗ Opened issue [#16](https://github.com/Walter254/myCv/issues/16) in [Walter254/myCv](https://github.com/Walter254/myCv)
 3. ❗ Opened issue [#15](https://github.com/Walter254/myCv/issues/15) in [Walter254/myCv](https://github.com/Walter254/myCv)
 4. 🔒 Closed issue [#13](https://github.com/Walter254/myCv/issues/13) in [Walter254/myCv](https://github.com/Walter254/myCv)
