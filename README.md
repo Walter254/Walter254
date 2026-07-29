@@ -1,4 +1,4 @@
-<p align="center"><strong>👋 Hello, I'm Walter. I am a Mobile App Engineer!</strong></p>
+<p align="center"><strong>👋 Hello, I'm Walter. I am a Senior Software Engineer!</strong></p>
 
 <br />
 
@@ -6,7 +6,7 @@ Computer Engineering graduate from Tufts University with a passion for building 
 
 **About me**
 
-- 💼 Tech Lead - Features Team at [Trivelta](https://www.trivelta.com/)
+- 💼 VP of Engineering | Frontend Architect & Mobile at [Trivelta](https://www.trivelta.com/)
 
 - ❤️ I love building impactful software!
 
