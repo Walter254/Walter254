@@ -41,10 +41,10 @@ Computer Engineering graduate from Tufts University with a passion for building 
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Ether Mac 0.4.2](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.2) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
-2. 🚀 Published release [Ether Mac 0.4.1](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.1) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
-3. 🚀 Published release [Ether Mac 0.4.0](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.0) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
-4. 🔒 Closed issue [#13](https://github.com/Walter254/myCv/issues/13) in [Walter254/myCv](https://github.com/Walter254/myCv)
+1. 🚀 Published release [Ether Mac 0.4.3](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.3) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
+2. 🚀 Published release [Ether Mac 0.4.2](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.2) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
+3. 🚀 Published release [Ether Mac 0.4.1](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.1) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
+4. 🚀 Published release [Ether Mac 0.4.0](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.0) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
 5. 🎉 Merged PR [#14](https://github.com/Walter254/myCv/pull/14) in [Walter254/myCv](https://github.com/Walter254/myCv)
 
 <!--END_SECTION:activity-->
