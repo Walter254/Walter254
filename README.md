@@ -41,9 +41,9 @@ Computer Engineering graduate from Tufts University with a passion for building 
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Ether Mac 0.4.9](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.9) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
-2. 🚀 Published release [Ether Mac 0.4.6](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.6) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
-3. 🚀 Published release [Ether Mac 0.4.5](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.5) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
+1. 🚀 Published release [Ether Mac 0.4.11](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.11) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
+2. 🚀 Published release [Ether Mac 0.4.10](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.10) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
+3. 🚀 Published release [Ether Mac 0.4.9](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.9) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
 4. 🚀 Published release [Ether Mac 0.4.4](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.4) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
 5. 🚀 Published release [Ether Mac 0.4.3](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.3) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
 
