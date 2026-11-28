@@ -41,11 +41,11 @@ Computer Engineering graduate from Tufts University with a passion for building 
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Ether Mac 0.4.13](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.13) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
-2. 🚀 Published release [Ether Mac 0.4.12](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.12) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
-3. 🚀 Published release [Ether Mac 0.4.11](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.11) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
-4. 🚀 Published release [Ether Mac 0.4.10](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.10) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
-5. 🚀 Published release [Ether Mac 0.4.9](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.9) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
+1. 🚀 Published release [Ether Mac 0.4.22](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.22) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
+2. 🚀 Published release [Ether Mac 0.4.21](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.21) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
+3. 🚀 Published release [Ether Mac 0.4.20](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.20) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
+4. 🚀 Published release [Ether Mac 0.4.19](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.19) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
+5. 🚀 Published release [Ether Mac 0.4.18](https://github.com/ether-ai-app/ether-mac-beta/releases/tag/v0.4.18) in [ether-ai-app/ether-mac-beta](https://github.com/ether-ai-app/ether-mac-beta)
 
 <!--END_SECTION:activity-->
 
